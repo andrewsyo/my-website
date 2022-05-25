@@ -233,6 +233,7 @@ nav ul li a:hover {
 
 .ac .img-cover {
     overflow: hidden;
+    height:fit-content;
 }
 
 .ac img {
